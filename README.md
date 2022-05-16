@@ -22,3 +22,6 @@
 
 > - **Multi-Filter:** This will allow the user to preform a narrower search by filter by multiple data points such as date, state, and shape.
 <img width="1810" alt="Multi_Index" src="https://user-images.githubusercontent.com/97326526/168514284-1e6c2119-e330-4a98-abf9-460b933dd5b0.PNG">
+
+### Summary
+With the creation of the webpage there are some drwaback of this current version, the first being the data set that is being used. There is only a dataset that uses the month of January and in the year of 2010, creating a larger data set could provide the user with more search option utilizing the filter search feature better and more interactive. In addition to progress the webpage's further developement adding a code that will allow the user to clear the table without the user having to either refresh the page or to delete the filters in the specific filter line. The user should be allowed to clear the table with a simple click of the button and then search another filter point. A great addition to the webpage would also show a plot of all the cities or countries UFO sightings also imporving the visual aspect for the user allowing a greater analytical experience.
